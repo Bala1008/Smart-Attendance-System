@@ -39,7 +39,7 @@ A Mobile application which allow users (teachers) to mark attendance using Image
 ## How to use?
 ### 1. Clone 
 ```sh
-$ git clone https://github.com/akilvishnum/attendanceApp.git
+$ git clone https://github.com/Bala1008/Smart-Attendance-System.git
 ```
 ### 2. Move Directory
 ```sh
